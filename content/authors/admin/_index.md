@@ -18,24 +18,23 @@ organizations:
   url: "https:digitalcreativity.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Motivational Design for Human Wellbeing
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Experience Design
+- Applied Game Design
+- Behaviour Change
+- Wellbeing
+- Design ethics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Communication and Media Studies
+    institution: University of Hamburg
+    year: 2013
+  - course: MA in Comparative Literature (major), Psychology, Communication Research (minors)
+    institution: Westphalian Wilhelms University Münster
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
