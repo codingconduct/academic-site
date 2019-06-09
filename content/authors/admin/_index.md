@@ -15,7 +15,7 @@ role: Reader in Digital Creativity
 # Organizations/Affiliations
 organizations:
 - name: University of York
-  url: "https:digitalcreativity.ac.uk"
+  url: "https://digitalcreativity.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Motivational Design for Human Wellbeing
