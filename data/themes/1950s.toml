@@ -5,10 +5,10 @@ name = "1950s"
 light = true
 
 # Primary
-primary = "#F6F2E9"
+primary = "#858A8F"
 
 # Menu
-menu_primary = "#858A8F"
+menu_primary = "#9F8A78"
 menu_text = "#F6F2E9"
 menu_text_active = "#D3DFD4"
 menu_title = "#F6F2E9"
