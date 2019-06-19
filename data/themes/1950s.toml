@@ -5,15 +5,15 @@ name = "1950s"
 light = true
 
 # Primary
-primary = "#EF525B"
+primary = "#272D67"
 
 # Menu
-menu_primary = "#24C2CB"
+menu_primary = "#EAB003"
 menu_text = "#fff"
-menu_text_active = "#00828B"
+menu_text_active = "#D7CDAD"
 menu_title = "#fff"
 
 # Backgrounds
-background = "#efcf52"
-home_section_odd = "#efcf52"
-home_section_even = "#efcf52"
+background = "#F6D13A"
+home_section_odd = "#F6D13A"
+home_section_even = "#F6D13A"
